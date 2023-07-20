@@ -1,7 +1,7 @@
 # Google Dino FPGA
 VHDL implementation of the T-Rex game from Google Chrome
 
-taken from ![Samrose3 - Trex Runner](https://github.com/samrose3/trex-runner)
+adapted from [Samrose3 - Trex Runner](https://github.com/samrose3/trex-runner)
 
 
 # New Features 
@@ -15,5 +15,5 @@ taken from ![Samrose3 - Trex Runner](https://github.com/samrose3/trex-runner)
 ![T-Rex Runner](images/trex_runner_02.png)
 
 # Contributors
-![Arvin](https://github.com/arvin-mf)
-![Ali](https://github.com/front92back)
+[Arvin](https://github.com/arvin-mf)
+[Ali](https://github.com/front92back)
